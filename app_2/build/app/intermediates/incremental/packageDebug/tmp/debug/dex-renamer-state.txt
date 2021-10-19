@@ -1,0 +1,4 @@
+#Mon Oct 18 16:06:36 CDT 2021
+base.0=D\:\\Computo Movil\\app_2\\app_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
